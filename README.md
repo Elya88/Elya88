@@ -1,6 +1,6 @@
 # Hi! i'm Elnura 
 
-![Elya88 ](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
 ![github trophy](https://github-profile-trophy.vercel.app/?username=Elya88&theme=dracula)
